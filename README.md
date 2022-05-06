@@ -8,4 +8,5 @@ A 🏂 full-stack developer 🏄🏻‍♂️, good at data visualization and fr
 
 - Ping me by [Email](mailto:solesnip@gmail.com)
 - Follow me on [Twitter](https://twitter.com/linhuiww)
+- Read my articles on [ZhiHu](https://www.zhihu.com/people/linhuiw)
 
